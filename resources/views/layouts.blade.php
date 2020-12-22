@@ -45,16 +45,7 @@
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse pull-left" id="navbar-collapse" style="margin-left:100px !important;">
-          <marquee style="float: left;
-          text-align:center;
-          height: 50px;
-          padding: 15px 15px;
-          font-size: 18px;
-          line-height: 20px;
-          color:white;
-      ">Selamat Datang Di Media Pembalajaran Internet dan Intranet SMPIT Baitul Izzah Kota Bengkulu</marquee>
-        </div>
+        
         <!-- /.navbar-collapse -->
         <!-- Navbar Right Menu -->
         <div class="navbar-custom-menu">

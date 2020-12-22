@@ -18,7 +18,7 @@
           <!-- small box -->
           <div class="small-box bg-red">
             <div class="inner">
-                <h3 style="font-size: 3rem">HALAMAN HOME</h3>
+                <h3 style="font-size: 2rem">HALAMAN HOME</h3>
                 <p>Dashboard dan Informasi Singkat</p>
             </div>
             <div class="icon">
@@ -33,7 +33,7 @@
             <!-- small box -->
             <div class="small-box bg-aqua">
               <div class="inner">
-                <h3 style="font-size: 3rem">MATERI INTERNET</h3>
+                <h3 style="font-size: 2rem">MATERI INTERNET</h3>
   
                 <p>Materi dasar-dasar jaringan internet</p>
               </div>
@@ -48,7 +48,7 @@
             <!-- small box -->
             <div class="small-box bg-green">
               <div class="inner">
-                <h3 style="font-size: 3rem">MATERI INTRANET</h3>
+                <h3 style="font-size: 2rem">MATERI INTRANET</h3>
                 <p>Materi dasar-dasar jaringan intranet</p>
               </div>
               <div class="icon">
@@ -62,7 +62,7 @@
             <!-- small box -->
             <div class="small-box bg-yellow">
               <div class="inner">
-                <h3 style="font-size: 3rem">CONTOH & PERBEDAAN </h3>
+                <h3 style="font-size: 2rem">CONTOH & PERBEDAAN </h3>
   
                 <p>Contoh sederhana dari internet dan intranet</p>
               </div>
@@ -77,7 +77,7 @@
               <!-- small box -->
               <div class="small-box bg-orange">
                 <div class="inner">
-                    <h3 style="font-size: 3rem">LATIHAN SOAL</h3>
+                    <h3 style="font-size: 2rem">LATIHAN SOAL</h3>
     
                     <p>Latihan soal-soal yang berhubungan dengan internet</p>
                 </div>
@@ -92,7 +92,7 @@
               <!-- small box -->
               <div class="small-box bg-primary">
                 <div class="inner">
-                    <h3 style="font-size: 3rem">Daftar Pustaka</h3>
+                    <h3 style="font-size: 2rem">Daftar Pustaka</h3>
     
                     <p>Sumber materi yang didapatkan</p>
                 </div>
